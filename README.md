@@ -6,6 +6,7 @@
 <a href="https://www.linkedin.com/in/adham-al-azab-648846394"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
 <a href="https://www.youtube.com/@AdhamAl3zab"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> </a>
 <a href="https://www.facebook.com/share/1FCn7sN6S8/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
+
 ---
 
 ### 🚀 About Me
@@ -15,12 +16,24 @@
 - 💻 Practicing Problem Solving with **C++** on Codeforces
 - 🎥 Content Creator helping students with productivity, academic life, and tech growth
 
----
 
 ### Core Competencies & Technical Stack:
-  • 📱Mobile Development: Flutter, Dart , State management (Cubit / BLoC) , REST APIs, Local Databases, Data base (Firebase / Supabase)
-  
-  • 🧠Software Engineering Fundamentals: Object-Oriented Programming (OOP), Clean Code, Operating Systems, IT Fundamentals, Discrete Mathematics.
+
+   📱Mobile Development:
+   
+  - Flutter, Dart
+  - State management (Cubit / BLoC)
+  - REST APIs
+  - Local Databases
+  -  Data base (Firebase / Supabase)
+  ---
+   🧠Software Engineering Fundamentals:
+   
+   - Object-Oriented Programming (OOP)
+   - Clean Code
+   - Operating Systems (OS)
+   - IT Fundamentals
+   -  Discrete Mathematics.
 
 
 ### 🛠️ Tech Stack
