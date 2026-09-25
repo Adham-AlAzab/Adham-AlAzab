@@ -1,6 +1,6 @@
-# Hi there, I'm Adham 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Computer Science Student | Flutter & Mobile Application Developer
+<h4> Welcome to my page, <br/> I'm Adham, Computer Science Student | Flutter & Mobile Application Developer | Content creator </h4>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Adham-AlAzab&color=blue)](https://github.com/Adham-AlAzab)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -17,26 +17,21 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🛠️ Tech Stack
+<p align="center">
+<a href="https://flutter.dev/"> <img src="https://skillicons.dev/icons?i=flutter" width="55"/> </a>
+<a href="https://dart.dev/"> <img src="https://skillicons.dev/icons?i=dart" width="55"/> </a>
+<a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" width="55"/> </a>
+<a href="https://supabase.com/"> <img src="https://skillicons.dev/icons?i=supabase" width="55"/> </a>
+<a href="https://isocpp.org/"> <img src="https://skillicons.dev/icons?i=cpp" width="55"/> </a>
+<a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" width="55"/> </a>
+<a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" width="55"/> </a>
 
----
+</p>
 
-### 📊 GitHub Stats
-![Adham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adham-AlAzab&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-AlAzab&layout=compact&theme=radial)
-
----
 
 ### 📫 Connect With Me
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![YouTube Subscribe](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com)
-[![Facebook Follow](https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adham-al-azab-648846394?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![YouTube Subscribe](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AdhamAl3zab)
+[![Facebook Follow](https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1FCn7sN6S8/)
 
-_*Building skills, solving problems, creating impact.*_ 🚀
