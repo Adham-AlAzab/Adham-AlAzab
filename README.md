@@ -17,7 +17,7 @@
 - 🎥 Content Creator helping students with productivity, academic life, and tech growth
 
 
-### Core Competencies & Technical Stack:
+### 💎 Core Competencies & Technical Stack:
 
    📱Mobile Development:
    
