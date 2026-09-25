@@ -68,17 +68,6 @@ Codeforces
 
 <td align="center" width="33%">
 
-### 🎥 Content Creation
-
-Student Productivity
-Academic Growth
-Career Development
-Tech & Learning
-
-</td>
-  </tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -114,20 +103,6 @@ Tech & Learning
 </a>
 
 </p>
-
----
-
-## 📚 Academic & Competitive Programming
-
-> **Computer Science Student — Al-Azhar University**
-
-| Achievement                | Details               |
-| -------------------------- | --------------------- |
-| 🎓 GPA                     | **3.85**              |
-| 🥈 College Ranking         | **2nd in my College** |
-| 💻 Problem Solving         | **C++**               |
-| ⚔️ Competitive Programming | **Codeforces**        |
-| 📱 Development Focus       | **Flutter / Dart**    |
 
 ---
 
