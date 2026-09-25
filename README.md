@@ -51,6 +51,6 @@
 
 ### 📫 Connect With Me
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adham-al-azab-648846394?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![YouTube Subscribe](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AdhamAl3zab)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhammalazab@gmail.com)
 [![Facebook Follow](https://img.shields.io/badge/Follow-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/1FCn7sN6S8/)
 
