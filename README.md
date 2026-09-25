@@ -32,7 +32,7 @@ CS Student • Flutter Developer • Content Creator
 
 🔥 Working with **Firebase** and **Supabase** to build connected and scalable applications
 
-💡 Practicing **Problem Solving & Competitive Programming with C++ on Codeforces**
+💡 Practicing **Problem Solving with C++ on Codeforces**
 
 🎥 **Content Creator** helping students improve their **productivity, academic performance, and professional growth** through practical lessons and experiences
 
