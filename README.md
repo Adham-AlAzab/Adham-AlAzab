@@ -89,18 +89,6 @@ You can find my content on:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adham-AlAzab&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-AlAzab&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="left">
