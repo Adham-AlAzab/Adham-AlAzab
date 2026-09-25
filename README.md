@@ -2,10 +2,10 @@
 
 <h4> Welcome to my page, <br/> I'm Adham, Computer Science Student | Flutter & Mobile Application Developer | Content creator </h4>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Adham-AlAzab&color=blue)](https://github.com/Adham-AlAzab)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adham-AlAzab&style=flat" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/adham-al-azab-648846394"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+<a href="https://www.youtube.com/@AdhamAl3zab"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> </a>
+<a href="https://www.facebook.com/share/1FCn7sN6S8/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/> </a> </p>
 ---
 
 ### 🚀 About Me
