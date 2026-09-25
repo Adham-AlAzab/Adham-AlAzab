@@ -22,18 +22,19 @@
    📱Mobile Development:
    
   - Flutter, Dart
-  - State management (Cubit / BLoC)
   - REST APIs
   - Local Databases
+  - clean architecture
+  - State management (Cubit / BLoC)
   -  Data base (Firebase / Supabase)
   ---
    🧠Software Engineering Fundamentals:
    
-   - Object-Oriented Programming (OOP)
    - Clean Code
-   - Operating Systems (OS)
    - IT Fundamentals
    -  Discrete Mathematics.
+   - Operating Systems (OS)
+   - Object-Oriented Programming (OOP)
 
 
 ### 🛠️ Tech Stack
