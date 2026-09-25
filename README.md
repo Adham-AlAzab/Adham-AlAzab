@@ -17,6 +17,12 @@
 
 ---
 
+### Core Competencies & Technical Stack:
+  • 📱Mobile Development: Flutter, Dart , State management (Cubit / BLoC) , REST APIs, Local Databases, Data base (Firebase / Supabase)
+  
+  • 🧠Software Engineering Fundamentals: Object-Oriented Programming (OOP), Clean Code, Operating Systems, IT Fundamentals, Discrete Mathematics.
+
+
 ### 🛠️ Tech Stack
 <p align="center">
 <a href="https://flutter.dev/"> <img src="https://skillicons.dev/icons?i=flutter" width="55"/> </a>
