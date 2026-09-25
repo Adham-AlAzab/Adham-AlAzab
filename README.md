@@ -5,7 +5,7 @@ CS Student • Flutter Developer • Content Creator
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Adham-AlAzab&style=flat" alt="Profile Views" />
 
   <a href="https://www.linkedin.com/in/adham-al-azab-648846394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
