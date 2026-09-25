@@ -1,11 +1,11 @@
 <h1 align="left">👋 Hi, I'm Adham Al-Azab</h1>
 
 <h3 align="left">
-CS Student • Flutter Developer • Content Creator
+Computer Science Student • Flutter Developer • Content Creator
 </h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adham-AlAzab&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat" alt="Profile Views"/>
 
   <a href="https://www.linkedin.com/in/adham-al-azab-648846394">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,49 +24,17 @@ CS Student • Flutter Developer • Content Creator
 
 ## 🚀 About Me
 
-🎓 **Computer Science Student at Al-Azhar University**
+🎓 Computer Science Student at **Al-Azhar University**
 
-🏆 **GPA: 3.85** | **2nd in my College**
+🏆 **GPA: 3.85 / 4.0** • **2nd in my College**
 
-📱 **Flutter Developer** building mobile applications with **Flutter & Dart**
+📱 Flutter Developer focused on building mobile applications with **Flutter & Dart**
 
-🔥 Working with **Firebase** and **Supabase** to build connected and scalable applications
+🔥 Working with **Firebase & Supabase**
 
-💡 Practicing **Problem Solving with C++ on Codeforces**
+💻 Practicing **Problem Solving with C++ on Codeforces**
 
-🎥 **Content Creator** helping students improve their **productivity, academic performance, and professional growth** through practical lessons and experiences
-
-🌱 Currently focused on becoming a stronger software developer and building useful products that combine **technology, learning, and real-world impact**
-
----
-
-## 🧠 What I Do
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-
-### 📱 Mobile Development
-
-Flutter
-Dart
-Firebase
-Supabase
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 Problem Solving
-
-C++
-Data Structures
-Algorithms
-Codeforces
-
-</td>
-
-<td align="center" width="33%">
+🎥 Content Creator helping students improve their **productivity, academic performance, and professional growth**
 
 ---
 
@@ -106,23 +74,18 @@ Codeforces
 
 ---
 
-## 🎯 Content Creation
+## 🎥 Content
 
-I create content focused on helping students become more productive and build a stronger academic and professional life.
+I create content focused on helping students improve their:
 
-My content focuses on:
+* 📈 Productivity
+* 🎓 Academic Life
+* 💼 Professional Growth
 
-* 📈 Productivity & Personal Growth
-* 🎓 University & Academic Development
-* 💼 Career & Professional Growth
-* 💻 Technology & Learning
-* 🧠 Lessons learned from my own experience
+You can find my content on:
 
-### 🎬 Find my content
-
-**YouTube:** [Adham Al-Azab](https://www.youtube.com/@AdhamAl3zab)
-
-**Facebook:** [Adham Al-Azab](https://www.facebook.com/share/1FCn7sN6S8/)
+[YouTube](https://www.youtube.com/@AdhamAl3zab) •
+[Facebook](https://www.facebook.com/share/1FCn7sN6S8/)
 
 ---
 
